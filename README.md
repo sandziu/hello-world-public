@@ -5,3 +5,6 @@ hello-world-public
 ### I have two cats
 - **Kiskis**
 - *Taco*
+Some additionall information, like contact details:
+- +370640
+- sandra.dziuzaite@gmail.com
